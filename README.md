@@ -64,6 +64,17 @@ This is an **unofficial tool** (not affiliated with Greyscalegorilla or OTOY) cr
 2. Place GSG Asset Importer.py in your 3ds Max scripts/ or plugins/ folder.
 3. In 3ds Max, run the script via Scripting > Run Script…
 
+or 
+
+## 📦 Installation
+
+Installing the plugin is quick and requires no manual setup in 3ds Max.
+
+1. **Unzip** the downloaded package.
+2. **Copy** the `.bundle` folder to the Autodesk Application Plugins directory:
+   ```text
+   C:\ProgramData\Autodesk\ApplicationPlugins
+   
 ---
 
 🛠 Usage
